@@ -1,2 +1,2 @@
-# bounceOff1
-Visual Studio - Algorithm of bounceOff
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
